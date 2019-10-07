@@ -119,7 +119,7 @@
         android:background="@drawable/button"
         android:onClick="maps"
         android:padding="10dp"
-        android:text="SHOW ON MAP"
+        android:text="SHOW MAP"
         android:textColor="@android:color/background_light"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
